@@ -33,4 +33,4 @@ The Club Management System is a Java-based application that provides a user-frie
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Abdoosaeid/T17java.git
+   git clone https://github.com/aliisnetalive/Club-management-System.git
